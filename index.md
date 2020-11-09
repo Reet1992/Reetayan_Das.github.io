@@ -18,7 +18,7 @@ Updation Area: 1 )[editor on GitHub](https://github.com/Reet1992/Reetayan_Das.gi
  #### C) Analysis of Spotify User behavior to crete a recommender system.Clustered user profiles based on musical taste. Recommendations based on cluster charasteristics.
        Details: https://github.com/Reet1992/Spotify.
        
- #### D) Proposed Cross Validation strategy for Corona infected patients.
+ #### D) Proposed Cross Validation strategy for Corona infected patients
        Details: https://medium.com/@reetayandas/increase-the-number-of-testing-wont-be-effective-whether-cross-validation-can-be-70dc91ada13
        
        
